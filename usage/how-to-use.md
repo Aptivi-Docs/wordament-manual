@@ -13,4 +13,4 @@ Just use the `WordManager` class that contains:
 
 These functions call the `InitializeWords()` function to download the list of words and installs the list of words to the words list for the two above functions to use.
 
-If the conditional version is used, you can specify the maximum length of the word, the prefix of the word, and the postfix of the word.
+If the conditional version is used, you can specify the maximum length of the word, the prefix of the word, the postfix of the word, and the exact word length.
