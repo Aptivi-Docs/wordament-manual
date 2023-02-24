@@ -4,7 +4,7 @@ description: Welcome to Wordament!
 
 # 👋 Welcome!
 
-Welcome to Wordament! It's a library that hosts all the +400k English words. This information is taken from the list afailable at GitHub.
+Welcome to Wordament! It's a library that hosts all the +400k English words. This information is taken from the list available at GitHub.
 
 To use this library, go to any page in the left side of the screen.
 
